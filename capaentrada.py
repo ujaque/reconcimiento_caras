@@ -2,6 +2,7 @@ import cv2 as cv
 import os
 import imutils
 
+
 modelo = 'FotosElon'
 ruta1 = '/Users/davidlopez/PycharmProjects/Curso_deteccion_objetos/reconocimiento_contornos/reconocimientofacial1'
 rutacompleta = ruta1 + '/' + modelo
